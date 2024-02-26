@@ -37,5 +37,5 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gumchinjun&show_icons=true&theme=dracula" height="200px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumchinjun&theme=dracula" height="200px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumchinjun&layout=compact&theme=dracula" height="200px" />
 </div>
