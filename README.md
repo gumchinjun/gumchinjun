@@ -1,4 +1,4 @@
-![image](https://github.com/gumchinjun/gumchinjun/assets/97167373/9b505d1e-4957-47ef-9b3f-80b6c2b4ad66)<div align="center">
+<div align="center">
 
   ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20gumchinjun's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)  
 </div>
