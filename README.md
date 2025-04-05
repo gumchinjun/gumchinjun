@@ -35,6 +35,7 @@
 <br>
 
 <h2> 🏆 Awards </h2>
+
 - 2024 Yonsei-KAPS 사회 문제 해결을 위한 해커톤 - 우수장려상
   
 - 2024 GDSC Solution Challenge Top 100
