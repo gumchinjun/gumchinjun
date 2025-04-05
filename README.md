@@ -32,6 +32,18 @@
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />&nbsp
 </div>
+<br>
+
+<h2> 🏆 Awards </h2>
+- 2024 Yonsei-KAPS 사회 문제 해결을 위한 해커톤 - 우수장려상
+  
+- 2024 GDSC Solution Challenge Top 100
+  
+- 2023 ITM IT 서비스 개발 공모전 대상
+  
+- 2023 데이터 청년인재 양성 사업 (데이터 청년 캠퍼스) 빅데이터 분석과 AI활용 융합과정 - 한국상업교육학회 우수상
+  
+- 2022 AI COSS 하계 부트캠프 우수상
 
 <br><br>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
